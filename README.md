@@ -1,0 +1,1 @@
+Simple Counter app built using HTML,CSS and JS while learning from Scrimba
